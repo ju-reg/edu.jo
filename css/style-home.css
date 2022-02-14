@@ -1,0 +1,85 @@
+body{
+    background-color: #fcfdfd !important;
+}
+.header{
+    background-color: #2191c0;
+    width: 98%;
+    height: 160px;
+    border-radius: 6px;
+}
+.row img{
+    margin-top: 1rem;
+}
+.word{
+margin-top: 125px;
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    color: white;
+}
+span i{
+    color: white;
+}
+.fontawsom{
+    width: 35px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #0078ae;
+    border: #007bff;
+
+
+}
+span{
+    color: white;
+    width: 100%;
+    height: 50px;
+    background-color: #2191c0;
+
+
+}
+.body  {
+    margin-top: 5rem;
+    align-items: center;
+    margin-left: 20%;
+}
+table{
+    border-width:0.5px;
+    border-style: solid;
+    border-color: #2191c0;
+    padding: 4px 10px;
+
+    width: 800px;
+    border-collapse: collapse;
+
+
+}
+table  td{
+    padding: .5rem;
+    border:0.5px solid #2191c0;
+    border-collapse: collapse;
+
+
+}
+table .f-tr{
+    text-align: center;
+}
+
+.onerow{
+    width: 60%;
+}
+ul{
+    border:1px solid #2191c0;
+    border-radius: 10px;
+    width: 98%;
+
+
+
+}
+li{
+    margin: 1rem;
+
+}
+.select,option {
+    font-family: 'Arial', 'Font Awesome 5 Pro';
+    font-weight: 900;
+}
